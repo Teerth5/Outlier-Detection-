@@ -1,4 +1,5 @@
-This Python notebook, titled "Handling_Outliers.ipynb," demonstrates how to handle outliers in a dataset, specifically using an Uber fares dataset. The key steps involved are:
+This Python notebook demonstrates how to handle outliers  specifically using an Uber fares dataset. 
+The key steps involved are:
 
 1. **Data Preparation**: 
    - The notebook starts by downloading and extracting the Uber dataset.
